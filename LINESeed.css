@@ -1,0 +1,65 @@
+@font-face {
+	font-family: "LINESeedKR";
+	src: url("./assets/ko-KR/LINESeedKR-Th.woff2") format("woff2");
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "LINESeedKR";
+	src: url("./assets/ko-KR/LINESeedKR-Rg.woff2") format("woff2");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "LINESeedKR";
+	src: url("./assets/ko-KR/LINESeedKR-Bd.woff2") format("woff2");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "LINESeedJP";
+	src: url("./assets/ja-JP/LINESeedJP_OTF_Th.woff2") format("woff2");
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "LINESeedJP";
+	src: url("./assets/ja-JP/LINESeedJP_OTF_Rg.woff2") format("woff2");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "LINESeedJP";
+	src: url("./assets/ja-JP/LINESeedJP_OTF_Bd.woff2") format("woff2");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "LINESeedSans";
+	src: url("./assets/en-US/LINESeedSans_W_Th.woff2") format("woff2");
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "LINESeedSans";
+	src: url("./assets/en-US/LINESeedSans_W_Rg.woff2") format("woff2");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "LINESeedSans";
+	src: url("./assets/en-US/LINESeedSans_W_Bd.woff2") format("woff2");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "LINESeedSans";
+	src: url("./assets/en-US/LINESeedSans_W_XBd.woff2") format("woff2");
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: "LINESeedSans";
+	src: url("./assets/en-US/LINESeedSans_W_He.woff2") format("woff2");
+	font-weight: 900;
+}
